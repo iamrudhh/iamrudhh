@@ -25,3 +25,21 @@
 [![](https://visitcount.itsvg.in/api?id=iamrudhh&icon=9&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## **🖥️ Hacker Terminal**
+```sh
+root@iamrudhh:~$ nmap -A target.com
+Starting Nmap 7.91 ( https://nmap.org ) at 2025-03-05 22:00 IST
+Nmap scan report for target.com (192.168.1.1)
+Host is up (0.0023s latency).
+Not shown: 997 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+MAC Address: 00:1A:2B:3C:4D:5E (Unknown)
+root@iamrudhh:~$ exploit target.com
+[+] Exploiting target.com...
+[+] Bypassing Firewall...
+[+] Access Granted!
