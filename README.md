@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi there! I'm Anirudh — a passionate developer and cybersecurity enthusiast from India 🇮🇳.<br><br>- 🐍 I love writing clean, efficient Python code.<br>- 🛡 I'm actively learning ethical hacking, CTFs, and cybersecurity challenges.<br>- 🎯 My focus is on problem-solving, automation, and logic-based scripting.<br>- 🧠 I enjoy building CLI tools, learning reverse engineering, and exploring Linux.<br>- 🌱 Currently working on gamified learning platforms and open-source projects.<br>- 💡 Always curious to explore new technologies and security techniques.<br><br>## 🛠 Tech Stack<br><br>- Languages: `Python`, `C`, `Bash`<br>- Tools: `Git`, `Linux`, `Nmap`, `Burp Suite`, `Wireshark`, `Netcat`<br>- Interests: `Cybersecurity`, `Bug Bounty`, `CTFs`, `Scripting`<br><br>## 📫 Connect With Me<br><br>- Instagram: [@iamrudhh](https://instagram.com/iamrudhh)<br>- LinkedIn: [linkedin.com/in/anirudh-yourhandle](#)<br>- Portfolio: [Coming Soon]<br><br>
+ 📫 Connect With Me<br><br>- Instagram: [@iamrudhh](https://instagram.com/iamrudhh)<br>- LinkedIn: [linkedin.com/in/anirudh-yourhandle](#)<br>- Portfolio: [Coming Soon]<br><br>
 
 
 ## 🌐 Socials:
@@ -27,19 +26,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## **🖥️ Hacker Terminal**
-```sh
-root@iamrudhh:~$ nmap -A target.com
-Starting Nmap 7.91 ( https://nmap.org ) at 2025-03-05 22:00 IST
-Nmap scan report for target.com (192.168.1.1)
-Host is up (0.0023s latency).
-Not shown: 997 closed ports
-PORT     STATE SERVICE
-22/tcp   open  ssh
-80/tcp   open  http
-443/tcp  open  https
-MAC Address: 00:1A:2B:3C:4D:5E (Unknown)
-root@iamrudhh:~$ exploit target.com
-[+] Exploiting target.com...
-[+] Bypassing Firewall...
-[+] Access Granted!
